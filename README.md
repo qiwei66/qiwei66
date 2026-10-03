@@ -1,6 +1,6 @@
 ### Hi, I'm Qiwei
 
-I build small, sharp tools for people who ship with Claude Code and Codex.
+AI product builder, currently at Alipay.
 
 | | |
 |---|---|
@@ -9,5 +9,3 @@ I build small, sharp tools for people who ship with Claude Code and Codex.
 | **[claude-bell](https://github.com/qiwei66/claude-bell)** | Get pinged on Mac + iPhone when Claude finishes a task. |
 
 Follow along on X → [@QIWEI6688](https://x.com/QIWEI6688)
-
-写给用 Claude Code / Codex 干活的人的小工具。
